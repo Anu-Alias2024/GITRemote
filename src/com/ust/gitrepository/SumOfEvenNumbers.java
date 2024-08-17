@@ -15,11 +15,11 @@ public class SumOfEvenNumbers {
 			}
 			int sum=0;
 			for(int i : list) {
-				if(i%2==0) {
+			//	if(i%2==0) {
 					
 					sum +=i;
 					
-				}
+				//}
 			}
 System.out.println(sum);
 		}
